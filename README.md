@@ -1,8 +1,13 @@
+PLY Reader
+===
+
+Extracting depth/colour images from PLY files
+
 ## Dependency
 
-+ CMake
-+ ```glut``` installed with ```apt install freeglut3-dev```
++ Glut: ```sudo apt install freeglut3-dev```
 + PCL with ```simulation``` module enabled (disabled by default)
++ Boost program_options module: ```sudo apt install libboost-program-options-dev```
 
 ## Usage
 
